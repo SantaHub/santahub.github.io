@@ -69,7 +69,7 @@ content:
         quote: >
           This is state of the art machine learning application used to detect activities over camera
         description: | # this will include new lines to allow paragraphs
-          The project uses convolution networks to identity and tag images and objects in the image.
+          The project uses convolution networks to identity and tag images and objects in the frame.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
